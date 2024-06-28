@@ -1,0 +1,32 @@
+.main{
+    background-color: rgb(241, 236, 100);
+}
+.main .main1{
+    display: flex;
+    justify-content:start;
+    background-color:brown;
+    height: 1000px;
+    width: 1000px;
+}
+.main .main2{
+    display: flex;
+    justify-content:start;
+    background-color:blue;
+    height: 200px;
+    width: 200px;
+    
+}
+main .main3{
+    display: flex;
+    justify-content:start;
+    background-color:purple;
+    height: 300px;
+    width:300px;
+}
+.main .main4{
+    display: flex;
+    justify-content:start;
+    background-color:palevioletred;
+    height: 400px;
+    width: 400px;
+}
